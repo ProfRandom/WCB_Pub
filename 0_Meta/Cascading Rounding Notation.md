@@ -1,10 +1,7 @@
 # 1. Purpose & Scope
 
 **Cascading Rounding Notation (CRN)** is a lightweight, human-friendly method
-for reporting rounded or truncated numerical values with clarity and
-transparency. Its primary purpose is to reveal *how* a practical number was
-obtained from a more precise or raw value, without imposing any requirements
-on how calculations *must* be performed internally.
+for reporting rounded or truncated numerical values with clarity and transparency. Its primary purpose is to reveal *how* a practical number was obtained from a more precise or raw value, without imposing any requirements on how calculations *must* be performed internally.
 
 CRN is a **reporting notation**, not a computational standard.
 
@@ -35,6 +32,14 @@ reported value, while leaving the *how* to the user’s chosen mathematical,
 scientific, or computational context.
 
 CRN is compatible with all rounding conventions, including **Magnitude-First Rounding (MFR)**, the default rounding convention adopted in this corpus, and exists solely to make numerical communication clearer, more honest, and easier to follow.
+
+
+> [!attention] Caveat
+> All this being said, it’s worth acknowledging one significant OEM concern: Microsoft Excel’s rounding behavior is … quirky.
+> 
+>Depending on which function you call — ROUND(), ROUNDUP(), ROUNDDOWN(), MROUND(), INT(), etc. — Excel may return values that differ subtly (or dramatically) from what CRN implies or what traditional rounding would suggest.
+>
+>If you're using a spreadsheet to perform calculations, watch closely.  Excel does not always round the way you think it rounds, and certainly not the way CRN documents rounding.
 
 # 2. Conceptual Foundations
 
@@ -213,10 +218,11 @@ $$
 3.142 \;\longleftarrow\; 3.141(59)
 $$
 
-This section defines only the default rounding behavior assumed when using CRN within this corpus. For a complete treatment of rounding methods—including round-half-up, banker’s rounding, IEEE modes, and negative-number handling—see [[Rounding in WMB]].
+This section defines only the default rounding behavior assumed when using CRN within this corpus. 
 
 
 See Also:
 [[Resultant]]
-[[Rounding in WMB]]
 [[Math Tools]]
+[[The GEWE Corollary]]
+[[The SANC Charter]]

@@ -4,7 +4,14 @@
 "status:" : draft
 "updated:": 2025-11-13
 ---
-## ⚖️ Integrity in Worldmaking: Mythos and Logos
+# Orientation
+This is not a book; it is a system of thought.  Each page stands alone, yet every link leads deeper.  There's really no "right order" to engage with WMB but here's a top-level road map to help you find what you're most looking for.
+
+```mermaid
+flowchart TD
+	A[Insert content here]
+```
+# ⚖️ Integrity in Worldmaking: Mythos and Logos
 
 *Worldmaking Basics* rests on two interwoven modes of coherence:
 
@@ -32,7 +39,7 @@ WMB has no need (nor any desire) to compete with them.
 Instead, its purpose is to articulate and clarify the **logosic foundations** — the physical, cosmological, and ontological content of worlds — so that whatever mythosic contexts readers choose to create can rest upon solid, intelligible ground.
 
 A story with a perfect plot but impossible (or just inconsistent) physics feels hollow; a world with flawless mechanics but forgotten motives feels sterile.  Together, continuity and consistency form the complementary disciplines of **mythosic** and **logosic** integrity — the Twin Maladies of *plot holes* and *potholes*.
-## 🧩 Plot Holes and the Continuity of Story
+# 🧩 Plot Holes and the Continuity of Story
 
 **Plot holes break stories.**
 
@@ -47,7 +54,7 @@ It’s the story-level counterpart to a **pothole**: an error not in physics or 
 > Attention shifts from empathy (*“will she win?”*) to dissonance (*“the story forgot itself”*), and the thread of belief is cut.
 
 ---
-## 🧩 Potholes and the Consistency of Reality
+# 🧩 Potholes and the Consistency of Reality
 
 **Potholes break the cosmos.**
 

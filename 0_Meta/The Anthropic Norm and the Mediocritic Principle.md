@@ -75,12 +75,11 @@ In worldcraft terms:
 > but at the center of persistence.  
 > The cosmos endures because most of it behaves most of the time.
 
-
-> [!related]
-> **Related Meta Notes:**  
-> [[Principles — Integrity in Worldmaking]] → Overview 
-> [[The SANC Charter]] → Methodological rigor  
-> [[The GEWE Corollary]] → Pragmatic Precision
-
-[[The GEWE Corollary|⇐]] ❖ [[Orientation|⇒]]
-
+[[Cascading Rounding Notation]]
+[[Math Tools]]
+[[Meta — The Philosophy of Coherence]]
+[[Neolexicosis — The Worldmaker's Malady]]
+[[Principles — Integrity in Worldmaking]]
+[[Resultant]]
+[[The GEWE Corollary]]
+[[The SANC Charter]]

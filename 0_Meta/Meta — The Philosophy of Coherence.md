@@ -69,4 +69,11 @@ the standards of truth, clarity, and sufficiency that sustain immersion.
 
 ---
 
-[[Orientation|⇐]] ❖ [[Principles — Integrity in Worldmaking|⇒]]
+[[Cascading Rounding Notation]]
+[[Math Tools]]
+[[Neolexicosis — The Worldmaker's Malady]]
+[[Principles — Integrity in Worldmaking]]
+[[Resultant]]
+[[The Anthropic Norm and the Mediocritic Principle]]
+[[The GEWE Corollary]]
+[[The SANC Charter]]

@@ -87,6 +87,9 @@ Worlds are living systems; their models should breathe.
 > 3. Sufficient And Necessary Constructs → *Build no clockwork where a sundial will do.*  
 > 4. Self-Adjusting, Non-Coercive → *Coherence, not control.*
 
----
-
-[[Principles — Integrity in Worldmaking|⇐]] ❖ [[The GEWE Corollary|⇒]]
+[[The GEWE Corollary]]
+[[Principles — Integrity in Worldmaking]]
+[[Math Tools]]
+[[Neolexicosis — The Worldmaker's Malady]]
+[[Resultant]]
+[[The Anthropic Norm and the Mediocritic Principle]]

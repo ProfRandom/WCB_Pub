@@ -1,3 +1,12 @@
+---
+title: Neolexicosis — The Worldmaker's Malady
+tags:
+  - GEWE
+  - sanc
+  - anthropic
+  - mediocritic
+concepts: neolex, exolex, insulex
+---
 # 🧩 The Three Lexical Orders of WMB
 
 WMB draws its vocabulary from three distinct “lexical orders,” each reflecting a different relationship between language and worldmaking intent. This taxonomy explains *how* terms enter the corpus and *why* they take the forms they do.
@@ -86,13 +95,5 @@ When the conceptual load exceeds the expressiveness of ordinary terminology, **n
 > Worldmakers aren’t cured of Neolexicosis.  
 > They simply learn to live *productively* with it.
 
-[[Cascading Rounding Notation]]
-[[Math Tools]]
-[[Meta — The Philosophy of Coherence]]
-[[Principles — Integrity in Worldmaking]]
-[[Resultant]]
-[[The Anthropic Norm and the Mediocritic Principle]]
-[[The GEWE Corollary]]
-[[The SANC Charter]]
 
 [^1]: Greek: *néo-* “new” + *léxis* “word.”

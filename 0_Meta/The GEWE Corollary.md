@@ -1,11 +1,15 @@
 ---
 title: ⚖️ The GEWE Corollary — *Good Enough for Worldmaking Efforts*
-summary: "Defines the pragmatic precision standard of WCB — the balance point between accuracy and creative coherence."
-tags: [meta, methodology, gewe, sanc, approximation, rigor]
+summary: Defines the pragmatic precision standard of WCB — the balance point between accuracy and creative coherence.
+tags:
+  - GEWE
+  - sanc
 date: 2025-11-13
 status: canonical
-version: 1.0
-related: [SANC Principle, Integrity in Worldmaking — Mythos and Logos]
+version: 1
+related:
+  - SANC Principle
+  - Integrity in Worldmaking — Mythos and Logos
 ---
 ## 🧩 Definition
 
@@ -121,10 +125,3 @@ When story, character, emotion, theme, or symbolism would suffer under strict pr
 Let [[Cascading Rounding Notation]] handle the numerical honesty.  
 **GEWE protects the narrative truth.**
 
-[[The Anthropic Norm and the Mediocritic Principle]]
-[[The SANC Charter]]
-[[Resultant]]
-[[Neolexicosis — The Worldmaker's Malady]]
-[[Math Tools]]
-[[Cascading Rounding Notation]]
-[[Principles — Integrity in Worldmaking]]

@@ -1,8 +1,13 @@
 ---
 "title:": Principles
 "summary:": Foundational tenets of the World Crafting Basics framework — the axioms of coherence, correspondence, and creative ontology."'
-"status:" : draft
+"status:": draft
 "updated:": 2025-11-13
+tags:
+  - Math_Tools
+  - GEWE
+  - sanc
+  - anthropic
 ---
 # Orientation
 This is not a book; it is a system of thought.  Each page stands alone, yet every link leads deeper.  There's really no "right order" to engage with WMB but here's a top-level road map to help you find what you're most looking for.
@@ -82,5 +87,4 @@ Plot holes close easily when the creator honors the same **[[The SANC Charter]]*
 Together they form the dual obligations of **World*making****:  
 - one to the *mythosic weave* of narrative,  
 - the other to the *logosic fabric* of the cosmos itself.
-
 

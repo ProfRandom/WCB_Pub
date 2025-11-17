@@ -53,8 +53,7 @@ Examples:
 - The universe is filled with stars, but is mostly *not* plasma.  
   *(It was once — but that was a different epoch.)*
 - Neutron stars are real, but the universe is *not* mostly neutronium.  
-- Volatiles form rocky **[[Monons 1 — Framework and Equations|planemons]]**,  
-  yet the cosmos remains overwhelmingly hydrogen and helium in gaseous form.
+- Volatiles form rocky planemons,  yet the cosmos remains overwhelmingly hydrogen and helium in gaseous form.
 
 ---
 
@@ -75,11 +74,3 @@ In worldcraft terms:
 > but at the center of persistence.  
 > The cosmos endures because most of it behaves most of the time.
 
-[[Cascading Rounding Notation]]
-[[Math Tools]]
-[[Meta — The Philosophy of Coherence]]
-[[Neolexicosis — The Worldmaker's Malady]]
-[[Principles — Integrity in Worldmaking]]
-[[Resultant]]
-[[The GEWE Corollary]]
-[[The SANC Charter]]

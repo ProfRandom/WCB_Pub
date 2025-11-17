@@ -16,6 +16,5 @@ avoids unnecessary terminology detours.
 - **General**:
 	- “Divide by the mass and use that **resultant** in the next step.”
 
-See Also:
-[[Cascading Rounding Notation]]
-[[Math Tools]]
+
+

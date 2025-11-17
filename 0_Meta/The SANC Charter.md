@@ -2,12 +2,8 @@
 title: 🔑 The SANC Charter
 summary: Defines the four operational forms of SANC — Science-Adjacent, Notationally Clear, and Self-Adjusting — the core methodological philosophy of WCB.
 tags:
-  - meta
-  - methodology
   - sanc
-  - coherence
-  - rigor
-  - gewe
+  - GEWE
 date: 2025-11-13
 status: canonical
 version: 1
@@ -87,9 +83,3 @@ Worlds are living systems; their models should breathe.
 > 3. Sufficient And Necessary Constructs → *Build no clockwork where a sundial will do.*  
 > 4. Self-Adjusting, Non-Coercive → *Coherence, not control.*
 
-[[The GEWE Corollary]]
-[[Principles — Integrity in Worldmaking]]
-[[Math Tools]]
-[[Neolexicosis — The Worldmaker's Malady]]
-[[Resultant]]
-[[The Anthropic Norm and the Mediocritic Principle]]

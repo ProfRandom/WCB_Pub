@@ -1,3 +1,9 @@
+---
+title: Cascading Rounding Notation
+tags:
+  - Math_Tools
+concepts: Rounding
+---
 # 1. Purpose & Scope
 
 **Cascading Rounding Notation (CRN)** is a lightweight, human-friendly method
@@ -221,8 +227,3 @@ $$
 This section defines only the default rounding behavior assumed when using CRN within this corpus. 
 
 
-See Also:
-[[Resultant]]
-[[Math Tools]]
-[[The GEWE Corollary]]
-[[The SANC Charter]]

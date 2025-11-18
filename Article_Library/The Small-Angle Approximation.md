@@ -1,7 +1,7 @@
 ---
 title: The Small-Angle Approximation
 tags:
-  - Math_Tools
+  - math
 concepts: Small-Angle Approximation, Apparent Diameter, Angular Size
 ---
 ## The Small Angle Approximation

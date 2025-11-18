@@ -1,7 +1,7 @@
 ---
 title: The Euclidean Algorithm
 tags:
-  - Math_Tools
+  - math
 concepts: Least Common Multiple, Greatest Common Divisor, Remainder, Modulo Arithmatic
 ---
 # The Euclidean Algorithm

@@ -1,7 +1,7 @@
 ---
 title: Linear Equations
 tags:
-  - Math_Tools
+  - math
 concepts: Point-Slope, Slope-Intercept,
 ---
 ## 📈 Point–Slope of a Line

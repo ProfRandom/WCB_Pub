@@ -1,7 +1,7 @@
 ---
 title: Cascading Rounding Notation
 tags:
-  - Math_Tools
+  - math
 concepts: Rounding
 ---
 # 1. Purpose & Scope

@@ -1,7 +1,7 @@
 ---
 title: Apparent and Absolute Magnitudes and the Distance Modulus
 tags:
-  - Math_Tools
+  - math
 concepts: Apparent Magnitude, Absolute Magnitude, Distance Modulus, Magnitude, Luminosity
 ---
 # Stellar Magnitude and The Distance Modulus

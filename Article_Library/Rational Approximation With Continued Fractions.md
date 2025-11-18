@@ -1,7 +1,7 @@
 ---
 title: Rational Approximation With Continued Fractions
 tags:
-  - Math_Tools
+  - math
 concepts: Continued Fraction, Rational Approximation, Convergents
 ---
 # Rational Approximation (Continued Fractions)

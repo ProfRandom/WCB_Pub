@@ -1,7 +1,7 @@
 ---
 title: Precision Inference Rules
 tags:
-  - Math_Tools
+  - math
 concepts: Precision, Significant Digits, Significance, Decimals
 ---
 # Precision Inference Rule #1

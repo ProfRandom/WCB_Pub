@@ -1,7 +1,7 @@
 ---
 Title: Rules of Exponents
 tags:
-  - Math_Tools
+  - math
   - sanc
 ---
 ## 🔢 Rules of Exponents

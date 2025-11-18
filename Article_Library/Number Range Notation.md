@@ -1,7 +1,7 @@
 ---
 title: Number Range Notation
 tags:
-  - Math_Tools
+  - math
 concepts: inclusive range, exclusive range
 ---
 # Number Range Notation

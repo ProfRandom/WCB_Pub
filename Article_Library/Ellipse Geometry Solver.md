@@ -1,7 +1,7 @@
 ---
 Title: Ellipse Geometry Solver
 tags:
-  - Math_Tools
+  - math
   - meta
   - sanc
 ---

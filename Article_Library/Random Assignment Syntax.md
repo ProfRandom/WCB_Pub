@@ -1,8 +1,8 @@
 ---
 title: Random Assignment Syntax
 tags:
-  - approximation
-  - Math_Tools
+  - approx
+  - math
 concepts: Random, Random Numbers, Syntax, Precision
 ---
 ## 🎲 Random Assignment Syntax

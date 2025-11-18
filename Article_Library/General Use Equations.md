@@ -1,7 +1,7 @@
 ---
 title: General Use Equations
 tags:
-  - Math_Tools
+  - math
 ---
 # 🧮 General-Use Equations
 

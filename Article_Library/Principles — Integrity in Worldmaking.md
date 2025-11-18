@@ -4,7 +4,7 @@
 "status:": draft
 "updated:": 2025-11-13
 tags:
-  - Math_Tools
+  - math
   - GEWE
   - sanc
   - anthropic

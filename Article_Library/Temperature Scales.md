@@ -1,7 +1,7 @@
 ---
 title: Temperature Scales
 tags:
-  - Math_Tools
+  - math
 con: Fahrenheit, Celcius, Kelvin, Conversion
 ---
 ## 🌡️ Temperature Scale Equalities

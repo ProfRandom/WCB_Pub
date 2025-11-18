@@ -1,7 +1,7 @@
 ---
 title: Negation, Mandation, Prescription
 tags:
-  - Math_Tools
+  - math
 ---
 ## Comparison Modifiers
 ### Negation

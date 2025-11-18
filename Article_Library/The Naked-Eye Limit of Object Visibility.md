@@ -1,7 +1,7 @@
 ---
 title: The Naked-Eye Limit of Object Visibility
 tags:
-  - Math_Tools
+  - math
 concepts: Naked-Eye, Absolute Magnitude, Apparent Magnitude, Distance Modulus, Magnitude, Luminosity, Albedo
 ---
 # The Naked-Eye Limit of Object Visibility

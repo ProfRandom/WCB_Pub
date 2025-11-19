@@ -113,9 +113,7 @@ $$
 >Note: Prefixes in *italics* are **WMB**-invented compounds, not official SI prefixes, and thus do not have defined abbreviations; **WMB** uses hyphenated abbreviations solely for completeness.
 
 - Where official SI prefixes exist (e.g., *micro-*, *milli-*, etc.), **WMB** uses them directly.  
-- For intermediate powers without SI prefixes, **WMB** adopts consistent **neologisms** based on the exponent’s magnitude:  
-   - Exponents **below zero** use an *-i* ending (unless an SI prefix already exists, e.g., *micro-*, not *micri-*).  
-   - Exponents **above zero** use an *-a* ending (unless an SI prefix already exists, e.g., *kilo-*, not *kila-*).
+- For intermediate powers without SI prefixes, **WMB** adopts consistent **neologisms** based on the exponent’s magnitude.
 - While SI defines prefixes beyond *exa-* ([Metric prefix](https://en.wikipedia.org/wiki/Metric_prefix)), **WMB** rarely uses them in monon contexts.  
    - Even the observable universe spans only ≈ $46.5$ **giga**light-years (Gly) in radius — roughly three orders of magnitude below **teraterran** relevance.  
 - The **negative intervals** are symbolically essential: many moons, asteroids, and micro-monons fall far below $1 \oplus$ in mass.  

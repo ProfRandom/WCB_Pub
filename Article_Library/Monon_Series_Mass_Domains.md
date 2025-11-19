@@ -6,23 +6,22 @@
 $$
 \begin{array}{l r r c l}
 \textbf{Series} 
-& \textbf{Min. Mass}~(\oplus) 
-& \textbf{Max. Mass}~(\oplus) 
-& \textbf{Range} \\
+& \textbf{Min. Mass} 
+& \textbf{Max. Mass}
+& \textbf{Range}\;(\oplus) \\
 \hline
-\text{nanomon}   & 0.0000000001 & 0.000001 & (10^{-10} \cdot\cdot\; 10^{-6}) \\
-\text{micromon}  & 0.000001     & 0.00001  & (10^{-6} \cdot\cdot\; 10^{-5}) \\
-\text{minimon}  & 0.00001     & 0.0001  & (10^{-6} \cdot\cdot\; 10^{-5}) & \\
-\text{midimon}   & 0.0001      & 0.001   & (10^{-5} \cdot\cdot\; 10^{-3}) \\
-\text{mesomon}   & 0.001        & 0.01     & (10^{-3} \cdot\cdot\; 10^{-2})  \\
-\textbf{\textit{planemon}} & 0.01        & 4131~(13\;♃) & (10^{-2} \cdot\cdot\; 10^{3})  \\
-\text{intermon}  & 4131~(13\;♃)         & 25,308~(80\;♃) & (10^{3} \cdot\cdot\; 10^{5})  \\
+\text{micromon}  & 0.000001\oplus     & 0.00001\oplus  & (10^{-6} \cdot\cdot\; 10^{-5}) \\
+\text{minimon}  & 0.00001\oplus     & 0.0001\oplus  & (10^{-5} \cdot\cdot\; 10^{-4}) & \\
+\text{midimon}   & 0.0001\oplus      & 0.001\oplus   & (10^{-4} \cdot\cdot\; 10^{-3}) \\
+\text{mesomon}   & 0.001\oplus        & 0.01\oplus     & (10^{-3} \cdot\cdot\; 10^{-2})  \\
+\textbf{planemon} & 0.01\oplus        & 4,131\oplus~(13\;♃) & (10^{-2} \cdot\cdot\; 10^{3})  \\
+\text{intermon}  & 4,131\oplus~(13\;♃)         & 25,308\oplus~(80\;♃) & (10^{3} \cdot\cdot\; 10^{5})  \\
 \hline
-\text{stellamon} & 25,308~(80\;♃) & 10,000,000~(300\odot) & (10^{5} \cdot\cdot\; 10^{7})  \\
+\text{stellamon} & 25,308\oplus~(80\;♃) & 10,000,000\oplus~(300\,\odot) & (10^{5} \cdot\cdot\; 10^{7})  \\
 \hline
-\text{supramon}  & 10,000,000~(300\odot) & 100,000,000~(3000\odot) & (10^{7} \cdot\cdot\; 10^{8})  \\
-\text{ultramon}  & 100,000,000~(3000\odot) & 10,000,000,000~(30000\odot) & (10^{8} \cdot\cdot\; 10^{9})  \\
-\text{hypermon}  & 10,000,000,000~(30000\odot) & 100,000,000,000~(300000\odot) & (10^{9} \cdot\cdot\; 10^{10})  \\
+\text{supramon}  & 10,000,000\oplus~(300\,\odot) & 3,000,000\,\odot & (10^{7} \cdot\cdot\; 10^{12})  \\
+\text{ultramon}  & 3,000,000\,\odot & 3,000,000,000\,\odot & (10^{12} \cdot\cdot\; 10^{15})  \\
+\text{hypermon}  & 3,000,000,000\,\odot & 3,000,000,000,000\,\odot & (10^{15} \cdot\cdot\; 10^{18})  \\
 \end{array}
 $$
 

@@ -1,5 +1,5 @@
 ---
-title: Mazotic_Mass_Continuum
+title: Mazotic Mass Continuum
 summary: Defines symbolic and numerical mass intervals relative to Earth mass (⨁), including the microterran subscale for small-mass bodies.
 domain:
 category: nomenclature

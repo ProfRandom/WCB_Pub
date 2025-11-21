@@ -13,11 +13,11 @@ date: 2025-11-20
 ---
 # Duramon Physical Parameters
 
-Duramonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duramon’s intrinsic matter. Their interaction produces the consequent parameter, surface gravity. And together, these three generate the emergent geometric and energetic properties: radius and escape velocity.
+Duramonic bodies are defined by five quantitative parameters, each belonging to a distinct tier of causality. Two of these — mass and density — describe the duramon’s intrinsic matter. Their interaction produces the consequent parameters, surface gravity and radius. Together, they generate the emergent dynamical parameter: escape velocity.
 
-Duramonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequent, and together they _generate_ the emergent.
+Duramonic parameters are grouped into tiers not by convenience, but by causality: primaries _define_ the consequents, and together they _generate_ the emergent.
 
-## Primary Parameters
+## Primary Properties
 
 **Mass** ($m$):  
 The total amount of matter the duramon contains.  
@@ -27,7 +27,7 @@ The total amount of matter the duramon contains.
 **Density** ($ρ$):  
 The average amount of matter per unit volume — how tightly the duramon’s material is packed. Density depends on both composition (rock, ice, metal, etc.) and, for larger bodies, gravitational self-compression.
 
-## Consequent Parameter
+## The Consequents
 
 **Surface Gravity** ($g$):  
 The strength of gravitational acceleration at the duramon’s surface — how strongly it attracts objects located one radius away from its center.  
@@ -38,60 +38,40 @@ $$
 g = \sqrt[3]{mρ^{2}}
 $$
 
-Together, **mass**, **density**, and **gravity** form the **consequential parameters** of the duramon.
+Together, mass and density _produce_ the duramon’s consequent parameters.
 
 They describe what the body *is* and how it *acts* gravitationally.
 
-## Emergent Parameters
-
 **Radius** ($r$):  
 The distance from the duramon’s center to its surface.  
-Although it may appear independent, radius is actually a *derived property*, emerging from the balance of mass and density:
+Radius is also **consequent**, also arising from the interaction of mass and density:
 
 $$
-r = \frac{g}{ρ} = \sqrt{\frac{m}{g}} = \sqrt[3]{\frac{m}{ρ}}
+r = \sqrt[3]{\frac{m}{ρ}}
 $$
-A duramon’s radius is not an independent trait — it’s the geometric expression of how much matter the body contains _given_ how tightly it is packed.
+## The Emergent
 
 **Escape Velocity** ($v_e$):  
 The minimum speed required to escape the duramon’s gravitational field when starting from its surface.
 
-This parameter emerges from the consequentials:
+This property emerges from the consequents:
 
 $$
-v_e = \frac{g}{\sqrt{ρ}} = \sqrt[4]{m\,g} = \sqrt[6]{m^{2}ρ}
+v_e = \sqrt{g\, r}
 $$
 Escape velocity represents the energy threshold imposed by the duramon’s gravitational well — the “height” of its gravity.
 ## Hierarchy of Dependence
 
-Duramonic parameters follow a clear causal chain, in which the **primary** parameters *define* the **consequent** parameter, and together these *form* the **emergent** parameters:
+Duramonic properties follow a clear causal chain, in which the **primary** properties ($m, \rho$) *define* the **consequent** properties ($g, r$), and together these *form* the **emergent** property ($v_e$):
 
-```mermaid
-flowchart TD
-	MASS
-	DENSITY
-	GRAVITY
-subgraph Primary
-	direction LR
-	MASS <--> DENSITY
-end
-subgraph Consequent
-	Primary --> GRAVITY
-end
-subgraph Emergent
-	RADIUS
-	E(ESCAPE VELOCIY)
-end
-	Consequent --> RADIUS
-	Consequent --> E
-```
+![[Duramonic Physical Properties]]
 
 $$
-\begin{gathered}
-\text{Primaries} \xrightarrow{define} \text{Consequent} \xrightarrow{forms} \text{Emergent} \\[1em]
-\text{or, in physical form:} \\[1em]
-\left[(m,ρ) \xmapsto{\text{combine}} g \right] \xrightarrow{\text{yields}} (r, v_{e})
-\end{gathered}
+\begin{aligned}
+(\rho,\; m) \Rightarrow\; &r, \\[1ex]
+\quad (m,\; &r) \Rightarrow g, \\[1ex]
+ &\hspace{.8em}(r,\; g) \Rightarrow v_e
+\end{aligned}
 $$
 ## A familiar analogy
 
